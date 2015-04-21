@@ -117,8 +117,7 @@ wp_head();
   </tr>
 </table>
 
-For scripts compression, I have used the minifier script **JShrink** provided by [tedious](https://github
-.com/tedious/JShrink)
+For scripts compression, I have used the minifier script **JShrink** provided by [tedious](https://github.com/tedious/JShrink)
 
 
 
