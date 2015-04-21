@@ -1,0 +1,3 @@
+# Disable directory listing
+# This might not work on servers that don't allow you to set the Options directive dynamically
+Options -Indexes
